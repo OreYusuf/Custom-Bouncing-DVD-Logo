@@ -42,12 +42,16 @@ const App = () => {
     setLogoColor(COLORS[Math.floor(Math.random() * COLORS.length)]);
   }, [dvdScreenSaver.impactCount]);
 
+  const openInNewTab = (url: string) => {
+    window.open(url, '_blank', 'noopener,noreferrer');
+  };
+
   return (
     <div className="contents">
       <div className="content">
         {/* <h2>impact count: {dvdScreenSaver.impactCount}</h2> */}
         <div ref={dvdScreenSaver.parentRef} className="hooks-parent">
-          <div ref={dvdScreenSaver.childRef} className="hooks-child">
+          <div ref={dvdScreenSaver.childRef} className="hooks-child" onClick={() => openInNewTab('https://linktr.ee/inter_are')}>
 
             <svg
                 xmlns="http://www.w3.org/2000/svg"
