@@ -16,6 +16,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
+<div align="center">
 A nostalgic journey the iconic DVD screensaver logo
 
 <a href="https://youtu.be/QOtuX0jL85Y?si=g_9teevaBvP3F0gR">Where's Waldo?</a>
@@ -65,3 +66,7 @@ A nostalgic journey the iconic DVD screensaver logo
 ### Built With
 
 [![React][React.js]][React-url]
+
+[React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
+
+[React-url]: https://reactjs.org/
