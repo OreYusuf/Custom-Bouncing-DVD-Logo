@@ -1,7 +1,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <img src="images/inter-Are.png" alt="Logo" width="80" height="80">
+  <img src="https://raw.githubusercontent.com/OreYusuf/Custom-Bouncing-DVD-Logo/main/images/Inter-Are.png" alt="Logo" width="80" height="80">
 
   <h3 align="center">Custom Bouncing DVD Logo</h3>
 
@@ -16,9 +16,6 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-
-[![Product Name Screen Shot][product-screenshot]](https://react-dvd-screensaver.vercel.app/)
-<div align="center">
 A nostalgic journey the iconic DVD screensaver logo
 
 <a href="https://youtu.be/QOtuX0jL85Y?si=g_9teevaBvP3F0gR">Where's Waldo?</a>
